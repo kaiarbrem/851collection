@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: 851 Trial Collection
+title: Material Memory
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: On bodies, objects, place, and heritage. 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "851 digital art history workshop collection."
+description: "This collection brings together contemporary works by women artists that explore relationships among body, material, nature, place, and memory. Across a range of media and cultural contexts, these works consider how histories can be embodied, embedded in materials, carried across generations, and transformed by extractive colonial practices. Together, they prompt us to consider our own relationships to nature, to ourselves, and to one another."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
